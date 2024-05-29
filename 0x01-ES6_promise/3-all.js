@@ -1,4 +1,3 @@
-
 /* Handle multiple successful promises
     Put () because return Promise resolve object
 */
